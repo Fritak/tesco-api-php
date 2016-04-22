@@ -1,0 +1,20 @@
+{
+    "name": "fritak/tesco-api-php",
+    "description": "Api for tescolabs.",
+    "homepage": "https://github.com/fritak/tesco-api-php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marek Sušický",
+            "email": "contact@fritak.eu",
+            "homepage": "http://www.fritak.eu",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "classmap": ["/"]
+    }
+}
