@@ -1,4 +1,4 @@
-Facebook Messenger Platform PHP API for bots.
+Library for communication with TESCO api.
 ========================
 
 This code is for communication with NEW tescolabs API.
